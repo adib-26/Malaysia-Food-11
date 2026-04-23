@@ -8,7 +8,7 @@ A deep learning project that classifies **11 types of Malaysian food** using bot
 
 ##  Dataset
 
-https://www.kaggle.com/datasets/karkengchan/malaysia-food-11?select=fish_and_chips
+https://www.kaggle.com/datasets/karkengchan/malaysia-food-11
 
 - 11 Malaysian food categories:
   - Nasi Lemak
